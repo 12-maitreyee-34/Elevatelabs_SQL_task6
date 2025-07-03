@@ -1,4 +1,4 @@
-This project demonstrates the use of **SQL Joins**, **Subqueries**, and **Nested Queries** on a sample database of customers and their orders. The database was designed and executed using **MySQL Workbench**.
+This repository demonstrates the use of **SQL Joins**, **Subqueries**, and **Nested Queries** on a sample database of customers and their orders. The database was designed and executed using **MySQL Workbench**.
 
 ### ✅ SUBQUERIES
 - **Scalar Subqueries** – E.g., comparing values with average order amount.
